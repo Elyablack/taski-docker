@@ -1,7 +1,7 @@
 # backend/api/tests.py
 from http import HTTPStatus
 
-from api import models
+import models
 from django.test import Client, TestCase
 
 
